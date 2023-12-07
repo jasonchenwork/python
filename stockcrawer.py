@@ -14,6 +14,7 @@ import time
 import json
 import datetime
 #import yfinance as yf
+# test commit 2023 12.07
 def transform_date(date):
         y, m, d = date.split('/')
         return str(int(y)+1911) + '/' + m  + '/' + d  #民國轉西元
