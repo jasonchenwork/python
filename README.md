@@ -42,4 +42,4 @@ A utility function to transform date formats.
 
 ## Author
 
-Created by [Your Name]. Updated on July 2025.
+Created by Jason Chen. Updated on July 2025.
